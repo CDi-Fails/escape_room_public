@@ -1,0 +1,7 @@
+extern u64 gGearShaftCenterDL__00010041_ci4[];
+extern u64 gGearShaftCenterDL__00010041_pal_rgba16[];
+extern Vtx gGearShaftCenterDL_gGearShaftCenterDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGearShaftCenterDL_gGearShaftCenterDL_mesh_layer_Opaque_vtx_0[28];
+extern Gfx gGearShaftCenterDL_gGearShaftCenterDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gGearShaftCenterDL_f3dlite_material_073_layerOpaque[];
+extern Gfx gGearShaftCenterDL[];

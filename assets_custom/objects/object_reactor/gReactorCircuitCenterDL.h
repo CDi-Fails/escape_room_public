@@ -1,0 +1,17 @@
+extern u64 gReactorCircuitCenterDL__00009909_ci4[];
+extern u64 gReactorCircuitCenterDL__00009909_pal_rgba16[];
+extern u64 gReactorCircuitCenterDL__00009908_ci4[];
+extern u64 gReactorCircuitCenterDL__00009908_pal_rgba16[];
+extern u64 gReactorCircuitCenterDL_Reactor_Wall_02_ci4[];
+extern u64 gReactorCircuitCenterDL_Reactor_Wall_02_pal_rgba16[];
+extern Vtx gReactorCircuitCenterDL_gReactorCircuitCenterDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gReactorCircuitCenterDL_gReactorCircuitCenterDL_mesh_layer_Opaque_vtx_0[30];
+extern Gfx gReactorCircuitCenterDL_gReactorCircuitCenterDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gReactorCircuitCenterDL_gReactorCircuitCenterDL_mesh_layer_Opaque_vtx_1[25];
+extern Gfx gReactorCircuitCenterDL_gReactorCircuitCenterDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gReactorCircuitCenterDL_gReactorCircuitCenterDL_mesh_layer_Opaque_vtx_2[16];
+extern Gfx gReactorCircuitCenterDL_gReactorCircuitCenterDL_mesh_layer_Opaque_tri_2[];
+extern Gfx mat_gReactorCircuitCenterDL_f3dlite_material_039_layerOpaque[];
+extern Gfx mat_gReactorCircuitCenterDL_IronWheel_001_layerOpaque[];
+extern Gfx mat_gReactorCircuitCenterDL_f3dlite_material_027_layerOpaque[];
+extern Gfx gReactorCircuitCenterDL[];

@@ -1,0 +1,6 @@
+extern u64 gLinkAdultOcarinaDL_ocarina_of_time_design_rgba16_png_001_rgba16[];
+extern Vtx gLinkAdultOcarinaDL_gLinkAdultOcarinaDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gLinkAdultOcarinaDL_gLinkAdultOcarinaDL_mesh_layer_Opaque_vtx_0[108];
+extern Gfx gLinkAdultOcarinaDL_gLinkAdultOcarinaDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gLinkAdultOcarinaDL_f3dlite_material_112_layerOpaque[];
+extern Gfx gLinkAdultOcarinaDL[];

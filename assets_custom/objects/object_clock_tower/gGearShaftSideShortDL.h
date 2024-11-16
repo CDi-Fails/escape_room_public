@@ -1,0 +1,7 @@
+extern u64 gGearShaftSideShortDL__00010041_ci4[];
+extern u64 gGearShaftSideShortDL__00010041_pal_rgba16[];
+extern Vtx gGearShaftSideShortDL_gGearShaftSideShortDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGearShaftSideShortDL_gGearShaftSideShortDL_mesh_layer_Opaque_vtx_0[24];
+extern Gfx gGearShaftSideShortDL_gGearShaftSideShortDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gGearShaftSideShortDL_f3dlite_material_073_layerOpaque[];
+extern Gfx gGearShaftSideShortDL[];

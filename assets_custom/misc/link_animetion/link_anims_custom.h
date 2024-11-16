@@ -1,0 +1,6 @@
+#include "gLinkAdultSkelPz_fishswimAnim.h"
+#include "gLinkAdultSkelPz_swimtowaitAnim.h"
+#include "gLinkAdultSkelPz_waterrollAnim.h"
+#include "gLinkAdultSkelStartboosterjumpAnim.h"
+#include "gLinkAdultSkelBoosterjumpAnim.h"
+#include "gLinkAdultSkelFinishboosterjumpAnim.h"

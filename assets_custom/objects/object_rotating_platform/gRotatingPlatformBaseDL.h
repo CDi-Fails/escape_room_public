@@ -1,0 +1,7 @@
+extern u64 gRotatingPlatformBaseDL_Wood_03_ci4[];
+extern u64 gRotatingPlatformBaseDL_Wood_03_pal_rgba16[];
+extern Vtx gRotatingPlatformBaseDL_gRotatingPlatformBaseDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gRotatingPlatformBaseDL_gRotatingPlatformBaseDL_mesh_layer_Opaque_vtx_0[54];
+extern Gfx gRotatingPlatformBaseDL_gRotatingPlatformBaseDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gRotatingPlatformBaseDL_f3dlite_material_207_layerOpaque[];
+extern Gfx gRotatingPlatformBaseDL[];

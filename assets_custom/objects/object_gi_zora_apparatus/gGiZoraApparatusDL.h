@@ -1,0 +1,15 @@
+extern u64 gGiZoraApparatusDL_Fish_Eye_00_rgba16[];
+extern u64 gGiZoraApparatusDL_Fish_Body_00_rgba16[];
+extern u64 gGiZoraApparatusDL_Fish_Fin_00_ci8[];
+extern u64 gGiZoraApparatusDL_Fish_Fin_00_pal_rgba16[];
+extern Vtx gGiZoraApparatusDL_gGiZoraApparatusDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGiZoraApparatusDL_gGiZoraApparatusDL_mesh_layer_Opaque_vtx_0[18];
+extern Gfx gGiZoraApparatusDL_gGiZoraApparatusDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gGiZoraApparatusDL_gGiZoraApparatusDL_mesh_layer_Opaque_vtx_1[53];
+extern Gfx gGiZoraApparatusDL_gGiZoraApparatusDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gGiZoraApparatusDL_gGiZoraApparatusDL_mesh_layer_Opaque_vtx_2[16];
+extern Gfx gGiZoraApparatusDL_gGiZoraApparatusDL_mesh_layer_Opaque_tri_2[];
+extern Gfx mat_gGiZoraApparatusDL_Eye_layerOpaque[];
+extern Gfx mat_gGiZoraApparatusDL_Body_layerOpaque[];
+extern Gfx mat_gGiZoraApparatusDL_Fin_layerOpaque[];
+extern Gfx gGiZoraApparatusDL[];

@@ -1,0 +1,6 @@
+extern u64 gWaterPlaneLargeDL_Z2_33ZORACITY__12__rgba16[];
+extern Vtx gWaterPlaneLargeDL_gWaterPlaneLargeDL_mesh_layer_Transparent_vtx_cull[8];
+extern Vtx gWaterPlaneLargeDL_gWaterPlaneLargeDL_mesh_layer_Transparent_vtx_0[5];
+extern Gfx gWaterPlaneLargeDL_gWaterPlaneLargeDL_mesh_layer_Transparent_tri_0[];
+extern Gfx mat_gWaterPlaneLargeDL_f3dlite_material_065_layerTransparent[];
+extern Gfx gWaterPlaneLargeDL[];

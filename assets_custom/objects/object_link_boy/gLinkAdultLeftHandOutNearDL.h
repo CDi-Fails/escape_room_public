@@ -1,0 +1,12 @@
+extern u64 gLinkAdultLeftHandOutNearDL_Escape_Link_Glove_00_ci8[];
+extern u64 gLinkAdultLeftHandOutNearDL_Escape_Link_Glove_00_pal_rgba16[];
+extern u64 gLinkAdultLeftHandOutNearDL_hand_ci8_ci8[];
+extern u64 gLinkAdultLeftHandOutNearDL_hand_ci8_pal_rgba16[];
+extern Vtx gLinkAdultLeftHandOutNearDL_gLinkAdultLeftHandOutNearDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gLinkAdultLeftHandOutNearDL_gLinkAdultLeftHandOutNearDL_mesh_layer_Opaque_vtx_0[36];
+extern Gfx gLinkAdultLeftHandOutNearDL_gLinkAdultLeftHandOutNearDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gLinkAdultLeftHandOutNearDL_gLinkAdultLeftHandOutNearDL_mesh_layer_Opaque_vtx_1[62];
+extern Gfx gLinkAdultLeftHandOutNearDL_gLinkAdultLeftHandOutNearDL_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_gLinkAdultLeftHandOutNearDL_Glove_layerOpaque[];
+extern Gfx mat_gLinkAdultLeftHandOutNearDL_Fingers_layerOpaque[];
+extern Gfx gLinkAdultLeftHandOutNearDL[];

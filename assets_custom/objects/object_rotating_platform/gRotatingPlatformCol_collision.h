@@ -1,0 +1,4 @@
+extern SurfaceType gRotatingPlatformCol_polygonTypes[];
+extern CollisionPoly gRotatingPlatformCol_polygons[];
+extern Vec3s gRotatingPlatformCol_vertices[24];
+extern CollisionHeader gRotatingPlatformCol_collisionHeader;

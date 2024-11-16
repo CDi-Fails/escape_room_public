@@ -1,0 +1,12 @@
+extern u64 gWaterPipeDL__00010277_ci4[];
+extern u64 gWaterPipeDL__00010277_pal_rgba16[];
+extern u64 gWaterPipeDL_Pipe_Cracked_00_ci4[];
+extern u64 gWaterPipeDL_Pipe_Cracked_00_pal_rgba16[];
+extern Vtx gWaterPipeDL_gWaterPipeDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gWaterPipeDL_gWaterPipeDL_mesh_layer_Opaque_vtx_0[63];
+extern Gfx gWaterPipeDL_gWaterPipeDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gWaterPipeDL_gWaterPipeDL_mesh_layer_Opaque_vtx_1[4];
+extern Gfx gWaterPipeDL_gWaterPipeDL_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_gWaterPipeDL_Pipe_layerOpaque[];
+extern Gfx mat_gWaterPipeDL_PipeCracked_layerOpaque[];
+extern Gfx gWaterPipeDL[];

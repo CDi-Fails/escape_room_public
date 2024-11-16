@@ -1,0 +1,6 @@
+extern u64 gChainPlatformLightDL_Window_Light_00_i8[];
+extern Vtx gChainPlatformLightDL_gChainPlatformLightDL_mesh_layer_Transparent_vtx_cull[8];
+extern Vtx gChainPlatformLightDL_gChainPlatformLightDL_mesh_layer_Transparent_vtx_0[4];
+extern Gfx gChainPlatformLightDL_gChainPlatformLightDL_mesh_layer_Transparent_tri_0[];
+extern Gfx mat_gChainPlatformLightDL_LightDecal_layerTransparent[];
+extern Gfx gChainPlatformLightDL[];

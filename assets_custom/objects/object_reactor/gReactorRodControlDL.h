@@ -1,0 +1,7 @@
+extern u64 gReactorRodControlDL_Reactor_Wall_00_ci4[];
+extern u64 gReactorRodControlDL_Reactor_Wall_00_pal_rgba16[];
+extern Vtx gReactorRodControlDL_gReactorRodControlDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gReactorRodControlDL_gReactorRodControlDL_mesh_layer_Opaque_vtx_0[35];
+extern Gfx gReactorRodControlDL_gReactorRodControlDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gReactorRodControlDL_f3dlite_material_181_layerOpaque[];
+extern Gfx gReactorRodControlDL[];

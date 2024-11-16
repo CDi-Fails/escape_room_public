@@ -1,0 +1,11 @@
+extern u64 gPlantPotDL_OBJ_Pot01_rgba16[];
+extern u64 gPlantPotDL_Garden_Pot_00_ci4[];
+extern u64 gPlantPotDL_Garden_Pot_00_pal_rgba16[];
+extern Vtx gPlantPotDL_gPlantPotDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gPlantPotDL_gPlantPotDL_mesh_layer_Opaque_vtx_0[12];
+extern Gfx gPlantPotDL_gPlantPotDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gPlantPotDL_gPlantPotDL_mesh_layer_Opaque_vtx_1[5];
+extern Gfx gPlantPotDL_gPlantPotDL_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_gPlantPotDL_Pot_layerOpaque[];
+extern Gfx mat_gPlantPotDL_f3dlite_material_102_layerOpaque[];
+extern Gfx gPlantPotDL[];

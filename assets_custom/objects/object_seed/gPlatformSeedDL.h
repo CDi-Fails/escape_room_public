@@ -1,0 +1,6 @@
+extern u64 gPlatformSeedDL_Seed_Platform_00_rgba16[];
+extern Vtx gPlatformSeedDL_gPlatformSeedDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gPlatformSeedDL_gPlatformSeedDL_mesh_layer_Opaque_vtx_0[20];
+extern Gfx gPlatformSeedDL_gPlatformSeedDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gPlatformSeedDL_f3dlite_material_002_layerOpaque[];
+extern Gfx gPlatformSeedDL[];

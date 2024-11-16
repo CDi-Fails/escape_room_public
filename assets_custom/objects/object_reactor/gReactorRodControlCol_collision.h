@@ -1,0 +1,4 @@
+extern SurfaceType gReactorRodControlCol_polygonTypes[];
+extern CollisionPoly gReactorRodControlCol_polygons[];
+extern Vec3s gReactorRodControlCol_vertices[16];
+extern CollisionHeader gReactorRodControlCol_collisionHeader;

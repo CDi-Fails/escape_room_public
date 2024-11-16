@@ -1,0 +1,17 @@
+extern u64 gReactorScaleDL_Reactor_Wall_03_ci4[];
+extern u64 gReactorScaleDL_Reactor_Wall_03_pal_rgba16[];
+extern u64 gReactorScaleDL__00009971_ci4[];
+extern u64 gReactorScaleDL__00009971_pal_rgba16[];
+extern u64 gReactorScaleDL__00010543_ci4[];
+extern u64 gReactorScaleDL__00010543_pal_rgba16[];
+extern Vtx gReactorScaleDL_gReactorScaleDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gReactorScaleDL_gReactorScaleDL_mesh_layer_Opaque_vtx_0[10];
+extern Gfx gReactorScaleDL_gReactorScaleDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gReactorScaleDL_gReactorScaleDL_mesh_layer_Opaque_vtx_1[8];
+extern Gfx gReactorScaleDL_gReactorScaleDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gReactorScaleDL_gReactorScaleDL_mesh_layer_Opaque_vtx_2[6];
+extern Gfx gReactorScaleDL_gReactorScaleDL_mesh_layer_Opaque_tri_2[];
+extern Gfx mat_gReactorScaleDL_f3dlite_material_117_layerOpaque[];
+extern Gfx mat_gReactorScaleDL_f3dlite_material_178_layerOpaque[];
+extern Gfx mat_gReactorScaleDL_f3dlite_material_177_layerOpaque[];
+extern Gfx gReactorScaleDL[];

@@ -1,0 +1,16 @@
+extern u64 gLinkAdultShieldDL_shield_handle_ci8_png_005_ci8[];
+extern u64 gLinkAdultShieldDL_shield_handle_ci8_png_005_pal_rgba16[];
+extern u64 gLinkAdultShieldDL_EscapeLink_Shield_04_ci8[];
+extern u64 gLinkAdultShieldDL_EscapeLink_Shield_04_pal_rgba16[];
+extern u64 gLinkAdultShieldDL_EscapeLink_Shield_03_rgba16[];
+extern Vtx gLinkAdultShieldDL_gLinkAdultShieldDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gLinkAdultShieldDL_gLinkAdultShieldDL_mesh_layer_Opaque_vtx_0[12];
+extern Gfx gLinkAdultShieldDL_gLinkAdultShieldDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gLinkAdultShieldDL_gLinkAdultShieldDL_mesh_layer_Opaque_vtx_1[11];
+extern Gfx gLinkAdultShieldDL_gLinkAdultShieldDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gLinkAdultShieldDL_gLinkAdultShieldDL_mesh_layer_Opaque_vtx_2[21];
+extern Gfx gLinkAdultShieldDL_gLinkAdultShieldDL_mesh_layer_Opaque_tri_2[];
+extern Gfx mat_gLinkAdultShieldDL_f3dlite_material_113_layerOpaque[];
+extern Gfx mat_gLinkAdultShieldDL_f3dlite_material_121_layerOpaque[];
+extern Gfx mat_gLinkAdultShieldDL_f3dlite_material_055_layerOpaque[];
+extern Gfx gLinkAdultShieldDL[];

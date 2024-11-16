@@ -1,0 +1,7 @@
+extern u64 gHookshotSeedDL_Seed_Hookshot_00_ci8[];
+extern u64 gHookshotSeedDL_Seed_Hookshot_00_pal_rgba16[];
+extern Vtx gHookshotSeedDL_gHookshotSeedDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gHookshotSeedDL_gHookshotSeedDL_mesh_layer_Opaque_vtx_0[20];
+extern Gfx gHookshotSeedDL_gHookshotSeedDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gHookshotSeedDL_f3dlite_material_001_layerOpaque[];
+extern Gfx gHookshotSeedDL[];

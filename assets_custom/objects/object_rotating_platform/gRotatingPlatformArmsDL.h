@@ -1,0 +1,12 @@
+extern u64 gRotatingPlatformArmsDL_Wood_Carved06_MirrorX_ci8[];
+extern u64 gRotatingPlatformArmsDL_Wood_Carved06_MirrorX_pal_rgba16[];
+extern u64 gRotatingPlatformArmsDL_Wood_00_ci4[];
+extern u64 gRotatingPlatformArmsDL_Wood_00_pal_rgba16[];
+extern Vtx gRotatingPlatformArmsDL_gRotatingPlatformArmsDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gRotatingPlatformArmsDL_gRotatingPlatformArmsDL_mesh_layer_Opaque_vtx_0[68];
+extern Gfx gRotatingPlatformArmsDL_gRotatingPlatformArmsDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gRotatingPlatformArmsDL_gRotatingPlatformArmsDL_mesh_layer_Opaque_vtx_1[29];
+extern Gfx gRotatingPlatformArmsDL_gRotatingPlatformArmsDL_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_gRotatingPlatformArmsDL_f3dlite_material_204_layerOpaque[];
+extern Gfx mat_gRotatingPlatformArmsDL_f3dlite_material_206_layerOpaque[];
+extern Gfx gRotatingPlatformArmsDL[];

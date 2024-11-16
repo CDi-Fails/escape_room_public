@@ -1,0 +1,6 @@
+extern u64 gFocusIndicatorDL_hilite_3_i8_png_001_i8[];
+extern Vtx gFocusIndicatorDL_gFocusIndicatorDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gFocusIndicatorDL_gFocusIndicatorDL_mesh_layer_Opaque_vtx_0[80];
+extern Gfx gFocusIndicatorDL_gFocusIndicatorDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gFocusIndicatorDL_f3dlite_material_002_layerOpaque[];
+extern Gfx gFocusIndicatorDL[];

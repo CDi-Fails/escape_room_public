@@ -1,0 +1,8 @@
+extern u64 gBoostBreakwallDL_Cracked_Stone_00_ci4[];
+extern u64 gBoostBreakwallDL_Cracked_Stone_00_x_Cracked_Stone_00_pal_rgba16[];
+extern u64 gBoostBreakwallDL_Cracked_Stone_00_ci4_copy[];
+extern Vtx gBoostBreakwallDL_gBoostBreakwallDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gBoostBreakwallDL_gBoostBreakwallDL_mesh_layer_Opaque_vtx_0[9];
+extern Gfx gBoostBreakwallDL_gBoostBreakwallDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gBoostBreakwallDL_f3dlite_material_202_layerOpaque[];
+extern Gfx gBoostBreakwallDL[];

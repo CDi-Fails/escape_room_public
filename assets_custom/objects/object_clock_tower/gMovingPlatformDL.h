@@ -1,0 +1,12 @@
+extern u64 gMovingPlatformDL_Brick_01_ci4[];
+extern u64 gMovingPlatformDL_Brick_01_pal_rgba16[];
+extern u64 gMovingPlatformDL_Wood_02_ci8[];
+extern u64 gMovingPlatformDL_Wood_02_pal_rgba16[];
+extern Vtx gMovingPlatformDL_gMovingPlatformDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gMovingPlatformDL_gMovingPlatformDL_mesh_layer_Opaque_vtx_0[10];
+extern Gfx gMovingPlatformDL_gMovingPlatformDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gMovingPlatformDL_gMovingPlatformDL_mesh_layer_Opaque_vtx_1[16];
+extern Gfx gMovingPlatformDL_gMovingPlatformDL_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_gMovingPlatformDL_f3dlite_material_127_layerOpaque[];
+extern Gfx mat_gMovingPlatformDL_f3dlite_material_124_layerOpaque[];
+extern Gfx gMovingPlatformDL[];

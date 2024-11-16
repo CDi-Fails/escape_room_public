@@ -1,0 +1,7 @@
+extern u64 gWaterPipeCrackDL_Pipe_Cracked_00_ci4[];
+extern u64 gWaterPipeCrackDL_Pipe_Cracked_00_pal_rgba16[];
+extern Vtx gWaterPipeCrackDL_gWaterPipeCrackDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gWaterPipeCrackDL_gWaterPipeCrackDL_mesh_layer_Opaque_vtx_0[8];
+extern Gfx gWaterPipeCrackDL_gWaterPipeCrackDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gWaterPipeCrackDL_PipeCracked_layerOpaque[];
+extern Gfx gWaterPipeCrackDL[];

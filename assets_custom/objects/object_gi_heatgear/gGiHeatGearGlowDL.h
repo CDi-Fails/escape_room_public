@@ -1,0 +1,6 @@
+extern u64 gGiHeatGearGlowDL_eff_bubble_1_i8_i8[];
+extern Vtx gGiHeatGearGlowDL_gGiHeatGearGlowDL_mesh_layer_Transparent_vtx_cull[8];
+extern Vtx gGiHeatGearGlowDL_gGiHeatGearGlowDL_mesh_layer_Transparent_vtx_0[16];
+extern Gfx gGiHeatGearGlowDL_gGiHeatGearGlowDL_mesh_layer_Transparent_tri_0[];
+extern Gfx mat_gGiHeatGearGlowDL_Glow_layerTransparent[];
+extern Gfx gGiHeatGearGlowDL[];

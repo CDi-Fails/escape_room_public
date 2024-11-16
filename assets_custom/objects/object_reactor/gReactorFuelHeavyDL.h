@@ -1,0 +1,16 @@
+extern u64 gReactorFuelHeavyDL_metal_Lantern_03_2_ci4[];
+extern u64 gReactorFuelHeavyDL_metal_Lantern_03_2_pal_rgba16[];
+extern u64 gReactorFuelHeavyDL_Reactor_Fuel_Heavy_00_ci8[];
+extern u64 gReactorFuelHeavyDL_Reactor_Fuel_Heavy_00_pal_rgba16[];
+extern u64 gReactorFuelHeavyDL_fx_lava_01_rgba16[];
+extern Vtx gReactorFuelHeavyDL_gReactorFuelHeavyDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gReactorFuelHeavyDL_gReactorFuelHeavyDL_mesh_layer_Opaque_vtx_0[30];
+extern Gfx gReactorFuelHeavyDL_gReactorFuelHeavyDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gReactorFuelHeavyDL_gReactorFuelHeavyDL_mesh_layer_Opaque_vtx_1[6];
+extern Gfx gReactorFuelHeavyDL_gReactorFuelHeavyDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gReactorFuelHeavyDL_gReactorFuelHeavyDL_mesh_layer_Opaque_vtx_2[24];
+extern Gfx gReactorFuelHeavyDL_gReactorFuelHeavyDL_mesh_layer_Opaque_tri_2[];
+extern Gfx mat_gReactorFuelHeavyDL_f3dlite_material_066_layerOpaque[];
+extern Gfx mat_gReactorFuelHeavyDL_f3dlite_material_112_layerOpaque[];
+extern Gfx mat_gReactorFuelHeavyDL_f3dlite_material_111_layerOpaque[];
+extern Gfx gReactorFuelHeavyDL[];

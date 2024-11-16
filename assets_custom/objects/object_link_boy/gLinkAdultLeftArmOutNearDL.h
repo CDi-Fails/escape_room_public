@@ -1,0 +1,12 @@
+extern u64 gLinkAdultLeftArmOutNearDL_Escape_Link_Sleeves_00_ci8[];
+extern u64 gLinkAdultLeftArmOutNearDL_Escape_Link_Sleeves_00_pal_rgba16[];
+extern u64 gLinkAdultLeftArmOutNearDL_Escape_Link_Gauntlet_ci8[];
+extern u64 gLinkAdultLeftArmOutNearDL_Escape_Link_Gauntlet_pal_rgba16[];
+extern Vtx gLinkAdultLeftArmOutNearDL_gLinkAdultLeftArmOutNearDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gLinkAdultLeftArmOutNearDL_gLinkAdultLeftArmOutNearDL_mesh_layer_Opaque_vtx_0[97];
+extern Gfx gLinkAdultLeftArmOutNearDL_gLinkAdultLeftArmOutNearDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gLinkAdultLeftArmOutNearDL_gLinkAdultLeftArmOutNearDL_mesh_layer_Opaque_vtx_1[154];
+extern Gfx gLinkAdultLeftArmOutNearDL_gLinkAdultLeftArmOutNearDL_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_gLinkAdultLeftArmOutNearDL_Sleeves_layerOpaque[];
+extern Gfx mat_gLinkAdultLeftArmOutNearDL_MetalGauntlet_layerOpaque[];
+extern Gfx gLinkAdultLeftArmOutNearDL[];

@@ -1,0 +1,46 @@
+#include "ultra64.h"
+#include "z64.h"
+#include "macros.h"
+
+SurfaceType gBookshelfDoorCol_polygonTypes[] = {
+	{ 0x00e00000, 0x0000000a },
+	{ 0x00000000, 0x0000000a },
+};
+
+CollisionPoly gBookshelfDoorCol_polygons[] = {
+	{ 0x0000, 0x0000, 0x0001, 0x0002, COLPOLY_SNORMAL(5.991755188006209e-06), COLPOLY_SNORMAL(4.371152328985772e-08), COLPOLY_SNORMAL(1.0), 0x0000 },
+	{ 0x0000, 0x0000, 0x0002, 0x0003, COLPOLY_SNORMAL(5.991755188006209e-06), COLPOLY_SNORMAL(4.371138473402425e-08), COLPOLY_SNORMAL(1.0), 0x0000 },
+	{ 0x0001, 0x0003, 0x0002, 0x0004, COLPOLY_SNORMAL(-1.0), COLPOLY_SNORMAL(4.668310443073365e-12), COLPOLY_SNORMAL(0.000106798492197413), 0xdfe4 },
+	{ 0x0001, 0x0003, 0x0004, 0x0005, COLPOLY_SNORMAL(-1.0), COLPOLY_SNORMAL(4.243790648755796e-12), COLPOLY_SNORMAL(0.000106798492197413), 0xdfe4 },
+	{ 0x0001, 0x0000, 0x0006, 0x0001, COLPOLY_SNORMAL(1.0), COLPOLY_SNORMAL(0.0), COLPOLY_SNORMAL(0.0), 0x0244 },
+	{ 0x0001, 0x0006, 0x0007, 0x0001, COLPOLY_SNORMAL(1.0), COLPOLY_SNORMAL(1.2715652246697573e-06), COLPOLY_SNORMAL(-1.5259489373420365e-05), 0x0244 },
+};
+
+Vec3s gBookshelfDoorCol_vertices[8] = {
+	{ -580, 0, 0 },
+	{ -580, 12000, 0 },
+	{ -8220, 12000, 0 },
+	{ -8220, 0, 0 },
+	{ -8220, 12000, -1000 },
+	{ -8220, 0, -1000 },
+	{ -580, 0, -1000 },
+	{ -580, 12000, -1000 },
+};
+
+CollisionHeader gBookshelfDoorCol_collisionHeader = {
+	-8220,
+	0,
+	-1000,
+	-580,
+	12000,
+	0,
+	8,
+	gBookshelfDoorCol_vertices,
+	6,
+	gBookshelfDoorCol_polygons,
+	gBookshelfDoorCol_polygonTypes,
+	0,
+	0,
+	0
+};
+

@@ -1,0 +1,6 @@
+extern u64 gReactorCircuitUpperBeamDL_Reactor_Beam_00_i8[];
+extern Vtx gReactorCircuitUpperBeamDL_gReactorCircuitUpperBeamDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gReactorCircuitUpperBeamDL_gReactorCircuitUpperBeamDL_mesh_layer_Opaque_vtx_0[11];
+extern Gfx gReactorCircuitUpperBeamDL_gReactorCircuitUpperBeamDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gReactorCircuitUpperBeamDL_f3dlite_material_056_layerOpaque[];
+extern Gfx gReactorCircuitUpperBeamDL[];

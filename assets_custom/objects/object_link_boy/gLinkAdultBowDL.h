@@ -1,0 +1,12 @@
+extern u64 gLinkAdultBowDL_bow_body_i8_png_001_i8[];
+extern Vtx gLinkAdultBowDL_gLinkAdultBowDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gLinkAdultBowDL_gLinkAdultBowDL_mesh_layer_Opaque_vtx_0[24];
+extern Gfx gLinkAdultBowDL_gLinkAdultBowDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gLinkAdultBowDL_gLinkAdultBowDL_mesh_layer_Opaque_vtx_1[18];
+extern Gfx gLinkAdultBowDL_gLinkAdultBowDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gLinkAdultBowDL_gLinkAdultBowDL_mesh_layer_Opaque_vtx_2[68];
+extern Gfx gLinkAdultBowDL_gLinkAdultBowDL_mesh_layer_Opaque_tri_2[];
+extern Gfx mat_gLinkAdultBowDL_f3dlite_material_047_layerOpaque[];
+extern Gfx mat_gLinkAdultBowDL_f3dlite_material_048_layerOpaque[];
+extern Gfx mat_gLinkAdultBowDL_f3dlite_material_049_layerOpaque[];
+extern Gfx gLinkAdultBowDL[];

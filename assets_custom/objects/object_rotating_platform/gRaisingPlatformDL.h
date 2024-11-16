@@ -1,0 +1,17 @@
+extern u64 gRaisingPlatformDL_Wood_Carved06_MirrorX_ci8[];
+extern u64 gRaisingPlatformDL_Wood_Carved06_MirrorX_pal_rgba16[];
+extern u64 gRaisingPlatformDL_Wood_00_ci4[];
+extern u64 gRaisingPlatformDL_Wood_00_pal_rgba16[];
+extern u64 gRaisingPlatformDL_Wood_03_ci4[];
+extern u64 gRaisingPlatformDL_Wood_03_pal_rgba16[];
+extern Vtx gRaisingPlatformDL_gRaisingPlatformDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gRaisingPlatformDL_gRaisingPlatformDL_mesh_layer_Opaque_vtx_0[14];
+extern Gfx gRaisingPlatformDL_gRaisingPlatformDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gRaisingPlatformDL_gRaisingPlatformDL_mesh_layer_Opaque_vtx_1[8];
+extern Gfx gRaisingPlatformDL_gRaisingPlatformDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gRaisingPlatformDL_gRaisingPlatformDL_mesh_layer_Opaque_vtx_2[10];
+extern Gfx gRaisingPlatformDL_gRaisingPlatformDL_mesh_layer_Opaque_tri_2[];
+extern Gfx mat_gRaisingPlatformDL_f3dlite_material_208_layerOpaque[];
+extern Gfx mat_gRaisingPlatformDL_f3dlite_material_021_layerOpaque[];
+extern Gfx mat_gRaisingPlatformDL_f3dlite_material_207_layerOpaque[];
+extern Gfx gRaisingPlatformDL[];

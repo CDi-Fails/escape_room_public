@@ -1,0 +1,17 @@
+extern u64 gGearShaftHandleDL__00010691_ci4[];
+extern u64 gGearShaftHandleDL__00010691_pal_rgba16[];
+extern u64 gGearShaftHandleDL_Gear_02_ci8[];
+extern u64 gGearShaftHandleDL_Gear_02_pal_rgba16[];
+extern u64 gGearShaftHandleDL_wood_pole_9_ci8[];
+extern u64 gGearShaftHandleDL_wood_pole_9_pal_rgba16[];
+extern Vtx gGearShaftHandleDL_gGearShaftHandleDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gGearShaftHandleDL_gGearShaftHandleDL_mesh_layer_Opaque_vtx_0[24];
+extern Gfx gGearShaftHandleDL_gGearShaftHandleDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gGearShaftHandleDL_gGearShaftHandleDL_mesh_layer_Opaque_vtx_1[12];
+extern Gfx gGearShaftHandleDL_gGearShaftHandleDL_mesh_layer_Opaque_tri_1[];
+extern Vtx gGearShaftHandleDL_gGearShaftHandleDL_mesh_layer_Opaque_vtx_2[18];
+extern Gfx gGearShaftHandleDL_gGearShaftHandleDL_mesh_layer_Opaque_tri_2[];
+extern Gfx mat_gGearShaftHandleDL_f3dlite_material_067_layerOpaque[];
+extern Gfx mat_gGearShaftHandleDL_f3dlite_material_079_layerOpaque[];
+extern Gfx mat_gGearShaftHandleDL_f3dlite_material_077_layerOpaque[];
+extern Gfx gGearShaftHandleDL[];

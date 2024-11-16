@@ -1,0 +1,11 @@
+extern u64 gHookshotPlantBudDL_Garden_Hookshot_Bud_00_rgba16[];
+extern u64 gHookshotPlantBudDL_Forest_Small08_MirrorX_ci8[];
+extern u64 gHookshotPlantBudDL_Forest_Small08_MirrorX_pal_rgba16[];
+extern Vtx gHookshotPlantBudDL_gHookshotPlantBudDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gHookshotPlantBudDL_gHookshotPlantBudDL_mesh_layer_Opaque_vtx_0[46];
+extern Gfx gHookshotPlantBudDL_gHookshotPlantBudDL_mesh_layer_Opaque_tri_0[];
+extern Vtx gHookshotPlantBudDL_gHookshotPlantBudDL_mesh_layer_Opaque_vtx_1[24];
+extern Gfx gHookshotPlantBudDL_gHookshotPlantBudDL_mesh_layer_Opaque_tri_1[];
+extern Gfx mat_gHookshotPlantBudDL_f3dlite_material_045_layerOpaque[];
+extern Gfx mat_gHookshotPlantBudDL_f3dlite_material_044_layerOpaque[];
+extern Gfx gHookshotPlantBudDL[];

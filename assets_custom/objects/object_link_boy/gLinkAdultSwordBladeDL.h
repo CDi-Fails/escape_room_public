@@ -1,0 +1,6 @@
+extern u64 gLinkAdultSwordBladeDL_hilite_1_rgba16_png_001_rgba16[];
+extern Vtx gLinkAdultSwordBladeDL_gLinkAdultSwordBladeDL_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx gLinkAdultSwordBladeDL_gLinkAdultSwordBladeDL_mesh_layer_Opaque_vtx_0[52];
+extern Gfx gLinkAdultSwordBladeDL_gLinkAdultSwordBladeDL_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_gLinkAdultSwordBladeDL_f3dlite_material_031_layerOpaque[];
+extern Gfx gLinkAdultSwordBladeDL[];
